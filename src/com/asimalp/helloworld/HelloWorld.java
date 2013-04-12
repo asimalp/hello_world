@@ -6,14 +6,7 @@ public class HelloWorld {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Hello World!");
-		System.out.println("Here is the second line!");
-		System.out.println("Here is the third line!");
-		System.out.println("Here is the forth line!");
-		System.out.println("Here is the fifth line!");
-		System.out.println("Here is the sixth line!");
-		System.out.println("Here is the seventh line!");
-		System.out.println("Here is the eight line!");
+		System.out.println("Hello GitHub!");
 	}
 
 }
